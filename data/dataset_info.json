@@ -38,6 +38,10 @@
       "assistant_tag": "assistant"
     }
   },
+  "bimwerxfea_en": {
+    "hf_hub_url": "chrisvnz/bimwerxfea",
+    "ms_hub_url": "chrisvnz/bimwerxfea"
+  },
   "alpaca_en": {
     "hf_hub_url": "llamafactory/alpaca_en",
     "ms_hub_url": "llamafactory/alpaca_en"
